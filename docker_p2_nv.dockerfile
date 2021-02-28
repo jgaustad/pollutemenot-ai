@@ -10,6 +10,8 @@ FROM nvidia/k8s-device-plugin
 
 RUN apt-get update
 RUN apt-get -y upgrade
+RUN apt-get install python3
+RUN apt-get install -y python3-pip
 RUN pip3 install --upgrade pip
 # install gdal
 RUN apt-get install -y gdal-bin libgdal-dev
