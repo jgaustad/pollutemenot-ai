@@ -22,6 +22,7 @@ RUN apt-get install -y libgdal-dev
 ARG CPLUS_INCLUDE_PATH=/usr/include/gdal
 ARG C_INCLUDE_PATH=/usr/include/gdal
 #RUN pip3 install GDAL==2.2.3 #version == might be needed here.
+RUN pip3 install tensorflow
 RUN pip3 install keras
 
 
