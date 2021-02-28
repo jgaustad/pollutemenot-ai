@@ -8,16 +8,20 @@ FROM nvidia/cuda:11.0-base
 # JupyterLab
 #
 #
-
+ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
 RUN apt-get -y upgrade
 RUN apt-get install -y python3-pip
 RUN pip3 install --upgrade pip
 # install gdal
-RUN apt-get install -y gdal-bin libgdal-dev
+RUN apt-get install -y tzdata
+RUN apt-get install -y binutils 
+RUN apt-get install -y libproj-dev 
+RUN apt-get install -y gdal-bin 
+RUN apt-get install -y libgdal-dev
 ARG CPLUS_INCLUDE_PATH=/usr/include/gdal
 ARG C_INCLUDE_PATH=/usr/include/gdal
-RUN pip3 install GDAL==2.2.3 #version == might be needed here.
+#RUN pip3 install GDAL==2.2.3 #version == might be needed here.
 RUN pip3 install keras
 
 
