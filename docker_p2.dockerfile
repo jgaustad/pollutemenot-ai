@@ -1,6 +1,6 @@
 #FROM nvcr.io/nvidia/l4t-tensorflow:r32.4.3-tf2.2-py3
-#FROM tensorflow/tensorflow
-FROM nvidia/cuda:11.0-base
+FROM tensorflow/tensorflow
+#FROM nvidia/cuda:11.0-base
 #FROM nvidia/k8s-device-plugin
 # 
 # 
