@@ -18,6 +18,8 @@ RUN apt-get install -y python3-pip
 RUN pip3 install --upgrade pip
 RUN pip3 install --upgrade setuptools pip
 
+# install numpy
+RUN pip3 install numpy
 
 # install gdal
 RUN apt-get install -y gdal-bin libgdal-dev
@@ -53,6 +55,7 @@ RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.c
 #RUN apt install -y python3-pandocfilters
 RUN pip3 install jupyter jupyterlab --verbose
 RUN pip3 install matplotlib
+RUN pip3 install sklearn
 RUN pip3 install pandas
 RUN pip3 install folium
 
