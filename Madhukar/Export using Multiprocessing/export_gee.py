@@ -522,15 +522,15 @@ def export_data2(index_danum, lat, lon):
     # doExport_RBG2(lat, lon, index_danum, 'RBG', size)
     # doExport_index2(lat, lon, index_danum, 'ndvi', size, make_ndvi)
     # doExport_index2(lat, lon, index_danum, 'ndwi', size, make_ndwi)
-    # doExport_index2(lat, lon, index_danum, 'mndvi', size, make_mndvi)
-    # doExport_index2(lat, lon, index_danum, 'mndwi', size, make_mndwi)
-    # doExport_gmndwi(lat, lon, index_danum, 'gmndwi', size, None)
+    doExport_index2(lat, lon, index_danum, 'mndvi', size, make_mndvi)
+    doExport_index2(lat, lon, index_danum, 'mndwi', size, make_mndwi)
+    doExport_gmndwi(lat, lon, index_danum, 'gmndwi', size, None)
     # # doExport_gmndwi(lat, lon, index_danum, 'mmndwi', size, None)
     doExport_srtm2(lat, lon, index_danum, 'srtm', size, None)
     # doExport_slope2(lat, lon, index_danum, 'slope', size, None)
-    # if size == 1000:
-    #   doExport_jrc2(lat, lon, index_danum, 'seasonality', size, None)
-    #   doExport_jrc2(lat, lon, index_danum, 'transition', size, None)
+    if size == 1000:
+      doExport_jrc2(lat, lon, index_danum, 'seasonality', size, None)
+      doExport_jrc2(lat, lon, index_danum, 'transition', size, None)
     # doExport_jrc2(lat, lon, index_danum, 'max_extent', size, None, hires)
 
 
