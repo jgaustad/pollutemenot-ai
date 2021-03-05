@@ -7,7 +7,8 @@ NIR_DRK_THRESH = 0.15
 CLD_PRJ_DIST = 2
 BUFFER = 100
 BUCKET = 'pollutemenot-ai'
-# FOLDER = 'test_final3'
+# FOLDER = "test_final6"
+# FOLDER = 'MR_GEE_images_final2'
 FOLDER = "GEE_images_final2"
 
 
@@ -522,15 +523,18 @@ def export_data2(index_danum, lat, lon):
     # doExport_RBG2(lat, lon, index_danum, 'RBG', size)
     # doExport_index2(lat, lon, index_danum, 'ndvi', size, make_ndvi)
     # doExport_index2(lat, lon, index_danum, 'ndwi', size, make_ndwi)
-    doExport_index2(lat, lon, index_danum, 'mndvi', size, make_mndvi)
-    doExport_index2(lat, lon, index_danum, 'mndwi', size, make_mndwi)
-    doExport_gmndwi(lat, lon, index_danum, 'gmndwi', size, None)
     # # doExport_gmndwi(lat, lon, index_danum, 'mmndwi', size, None)
-    doExport_srtm2(lat, lon, index_danum, 'srtm', size, None)
+
     # doExport_slope2(lat, lon, index_danum, 'slope', size, None)
+    doExport_srtm2(lat, lon, index_danum, 'srtm', size, None) # this
     if size == 1000:
-      doExport_jrc2(lat, lon, index_danum, 'seasonality', size, None)
-      doExport_jrc2(lat, lon, index_danum, 'transition', size, None)
+      doExport_jrc2(lat, lon, index_danum, 'seasonality', size, None) # this
+      doExport_jrc2(lat, lon, index_danum, 'transition', size, None) # this
+  for size in [1000, 10000]:
+    doExport_index2(lat, lon, index_danum, 'mndvi', size, make_mndvi) # this
+    doExport_index2(lat, lon, index_danum, 'mndwi', size, make_mndwi) # this
+    doExport_gmndwi(lat, lon, index_danum, 'gmndwi', size, None) # this
+
     # doExport_jrc2(lat, lon, index_danum, 'max_extent', size, None, hires)
 
 
@@ -547,12 +551,12 @@ def export_data_pooler(x):
 
     index, da_number, latitude, longitude = x
     # print('starting processing and uploading of index', index)
-    sys.stdout.write('starting processing and uploading of index' + str(index))
-    sys.stdout.flush()
+    # sys.stdout.write('starting processing and uploading of index' + str(index))
+    # sys.stdout.flush()
     export_data2(str(index) + '_' + da_number, latitude, longitude)
     # print("Done uploading hires and lores of index =", index)
-    sys.stdout.write("Done uploading hires and lores of index" + str(index))
-    sys.stdout.flush()
+    # sys.stdout.write("Done uploading hires and lores of index" + str(index))
+    # sys.stdout.flush()
     return index
 #     df = pd.read_csv('export_log.csv')
     # df.iloc[index - 1] = "exported"
