@@ -1,0 +1,503 @@
+,index,jurisdiction_type,da_number,district,project_name,longitude,latitude,date_issued_or_denied,rha_determination,cwa_determination,rha1,rha2,cwa1,cwa2,cwa3,cwa4,cwa5,cwa6,cwa7,cwa8,cwa9,potential_wetland
+0,11899,RAPANOS,SAW-2018-00563,Wilmington,Joshua Mullis Poultry Farm,-80.94282,36.088159999999995,4/9/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,14527,RAPANOS,SAW-2015-01412,Wilmington,Marshall Steam Station site assessment / Line 451 Duke Marshall Steam Plant Pipeline,-80.97379000000001,35.59059,3/8/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+2,11483,RAPANOS,SAW-2016-01003,Wilmington,Van Eudy Road / Howey / ESA Marshville NC LLC,-80.3793,34.99109,10/4/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,8688,RAPANOS,SAC-2016-01220,Charleston,17 North Self Storage,-79.74028,32.89305,1/11/2017,0,1,0,0,0,0,0,1,1,0,0,1,0,1
+4,11891,RAPANOS,SAW-2018-00499,Wilmington,235 Williams Road_Thomas R. Congleton,-77.88011,34.102140000000006,5/9/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,11649,RAPANOS,SAW-2017-00103,Wilmington,PTIA / Rental Car Facilities Relocation / Inman Road / Greensboro / Guilford County / commercial,-79.91121,36.12099,3/17/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+6,11398,RAPANOS,SAW-2016-00417,Wilmington,Prusiecki Residence Seawall Repair ,-82.95174,35.12768,3/25/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+7,12121,RAPANOS,SAW-2019-01791,Wilmington,3801 Burlington Road / Penry Road / Greensboro / Guilford County / commercial,-79.7206,36.08847,5/15/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,11896,RAPANOS,SAW-2018-00518,Wilmington,Elliott Heirs / Pre-Application Consultation,-76.48313,36.22704,3/20/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,11461,RAPANOS,SAW-2016-00818,Wilmington,1305 Physicians Drive/JD,-77.92888,34.19915,4/25/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,11801,RAPANOS,SAW-2017-02067,Wilmington,Flynn Property/Averette Rd./Wake Forest/Wake County ,-78.462,35.9779,12/26/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+11,11838,RAPANOS,SAW-2017-02516,Wilmington,John Locklear-Chicken Houses Hoke Co,-79.16767,34.88576,12/13/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,12029,RAPANOS,SAW-2019-00341,Wilmington,Madison Solar ,-81.73035,35.30276,4/23/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,12195,RAPANOS,SAW-2020-00710,Wilmington,WCU Millennial Campus Parking Site / Western Carolina University,-83.20253000000001,35.30311,4/29/2020,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+14,11432,RAPANOS,SAW-2016-00582,Wilmington,Leder Sparlin Enterprises LLC UA,-82.81361,35.186409999999995,2/8/2017,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+15,11447,RAPANOS,SAW-2016-00706,Wilmington,1913 Pagan Road / Wake County / Raleigh NC 27603,-78.66305,35.61828,5/5/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,11738,RAPANOS,SAW-2017-01192-SAW,Wilmington,"EAKES, DAVID / AJD - NO PERMIT REQUIRED",-76.07942,35.55324,6/8/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,10952,RAPANOS,SAW-2013-00445,Wilmington,JVI Construction/Holly Springs Rd. site/Wake County/Holly Springs/Savannah Place,-78.83964,35.6565,11/12/2015,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+18,12067,RAPANOS,SAW-2019-00996,Wilmington,NC National Guard Readiness Center / Camp Burton Road / McLeansville / Guilford County / institutional,-79.69785999999999,36.113859999999995,2/5/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,11088,RAPANOS,SAW-2015-01549,Wilmington,Bryan Purse/Purse Property,-78.93096,35.7871,3/28/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+20,12005,RAPANOS,SAW-2018-02004,Wilmington,North 301 Solar / NC Hwy 481 / Enfield / Halifax County / solar / renewable energy,-77.62363,36.2062,4/6/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,11979,RAPANOS,SAW-2018-01533,Wilmington,"Williamson, George & Amanda / Williamson I Solar Site",-80.00475,35.23085,8/2/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,10975,RAPANOS,SAW-2014-01260,Wilmington,"Capital Center Business Park, TCDC Partnership, LLC",-78.72731999999999,35.76717,11/3/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+23,12102,RAPANOS,SAW-2019-01467,Wilmington,Medical Park Drive / Pear Tree Road / Alamance County / Mebane NC,-79.27146,36.07504,5/8/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,12137,RAPANOS,SAW-2019-02031,Wilmington,Domke Alfred,-82.48671999999999,35.34584,12/9/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,11933,RAPANOS,SAW-2018-00919,Wilmington,Paul Collins- Lumber Bridge,-79.09676,34.87117,5/11/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,12069,RAPANOS,SAW-2019-01020,Wilmington,Essex Homes Southeast Incorporated / Silverwood,-80.70487,35.22808,3/19/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+27,11104,RAPANOS,SAW-2015-01694,Wilmington,Brian Whitesell dredge,-80.89845,35.46707,8/28/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+28,11403,RAPANOS,SAW-2016-00428,Wilmington,Colin MacNair,-78.97945,35.67418,5/3/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,11165,RAPANOS,SAW-2015-02194,Wilmington,David Houle Dredge,-80.9115,35.461,11/4/2015,1,1,0,1,0,0,1,0,0,0,0,1,0,0
+30,11235,RAPANOS,SAW-2015-02453,Wilmington,Julio Valle - Dredge,-81.00385,35.142140000000005,12/22/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+31,11934,RAPANOS,SAW-2018-00920,Wilmington,Randall McArthur-South Duffie Road,-79.25044,34.860640000000004,5/11/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,11932,RAPANOS,SAW-2018-00888,Wilmington,"Franklin Acquisitions, LLC/Polanco, Bob",-78.47043000000001,36.08938,11/7/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,11414,RAPANOS,SAW-2016-00502,Wilmington,Johnson Road,-79.41883,35.15384,5/19/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+34,12078,RAPANOS,SAW-2019-01125,Wilmington,Jo Levonne M Sharer / Deborah L Sharer,-80.67044,35.0751,3/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,11494,RAPANOS,SAW-2016-01115,Wilmington,Harpers Glen Apartments / JD,-78.35401,34.9859,6/2/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,14517,RAPANOS,SAW-1990-30036,Wilmington,"ECHO FARMS, GOLF COUNT",-77.9197,34.1629,8/24/2017,1,1,0,1,1,1,1,0,1,0,0,1,0,1
+37,11254,RAPANOS,SAW-2015-02525,Wilmington,Bobby Dishman Boat Access Channel,-81.0106,35.5686,12/23/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+38,11598,RAPANOS,SAW-2016-02123,Wilmington,CurrituckCountyAirport/Maple/AJD,-76.01118000000001,36.40128,10/20/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,11976,RAPANOS,SAW-2018-01415,Wilmington,"Roswell Farms, LLC/Thunderhead Solar Site",-79.79025,35.75489,11/9/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,12051,RAPANOS,SAW-2019-00731,Wilmington,108 Bayshore Drive_Primary Care Wilmington,-77.81127,34.2795,9/27/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,11839,RAPANOS,SAW-2017-02519,Wilmington,Roderick Wilkins-Chicken Houses Robeson ,-79.14992,34.86336,1/8/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,12056,RAPANOS,SAW-2019-00827,Wilmington,3917 Wilshire Blvd,-77.89126,34.2224,1/17/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,11752,RAPANOS,SAW-2017-01468,Wilmington,"Chatham County Publix/Buchholz, George",-79.09055,35.83258,7/20/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+44,12025,RAPANOS,SAW-2019-00267,Wilmington,Holmes Farms_Van Buren_Harrison Solar_State Rt. 1002 (Dunn Rd)_Sampson,-78.52906,34.984120000000004,5/21/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,9629,RAPANOS,SAC-2018-01697,Charleston,"Bearington Branch Assemblage Project Area #2, Newberry County",-81.54082,34.27986,5/15/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+46,12042,RAPANOS,SAW-2019-00617,Wilmington,Tap Root Project,-82.52788000000001,35.41207,6/13/2019,0,1,0,0,0,0,0,0,1,0,0,1,1,1
+47,11726,RAPANOS,SAW-2017-01040,Wilmington,Hampton Inn / 740 US Highway 74 East / Rockingham / Richmond County / commercial,-79.73444,34.913779999999996,5/17/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,12089,RAPANOS,SAW-2019-01292,Wilmington,"Letchworth, Joshua/Greene",-77.68165,35.52518,7/17/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,11499,RAPANOS,SAW-2016-01140,Wilmington,"Stella S Harris / lot 89, 90, 91, 92 Heron Bay / shoreline stabilization / Montgomery",-80.12533,35.46852,6/7/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+50,11306,RAPANOS,SAW-2016-00030,Wilmington,Dodson Seawall Bank Stabilization,-82.9388,35.1274,1/25/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+51,11757,RAPANOS,SAW-2017-01528,Wilmington,Cottages at Oban / 4504 Tryon Road / Wake County / Raleigh NC,-78.71319,35.748459999999994,9/25/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,11711,RAPANOS,SAW-2017-00861,Wilmington,"Alexander, Charles M. / Jurisdictional Determination",-76.74869,35.111990000000006,5/1/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+53,11369,RAPANOS,SAW-2016-00303,Wilmington,Brad Smith dredge,-80.93213,35.433820000000004,2/22/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+54,11107,RAPANOS,SAW-2015-01750,Wilmington,Paul Carini Dredge,-80.88591,35.50282,8/28/2015,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+55,11417,RAPANOS,SAW-2016-00508,Wilmington,Heedeh Solar Farm,-78.22346,34.30757,3/15/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+56,12174,RAPANOS,SAW-2020-00213,Wilmington,Clayton Properties Group Incorporated,-80.04352,36.02515,2/13/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,12119,RAPANOS,SAW-2019-01764,Wilmington,NRP Group LLC,-80.779,35.26018,2/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,11607,RAPANOS,SAW-2016-02247,Wilmington,3027 Aston Lane / Cruse Construction / PIN 206704827903,-78.1141,33.94704,11/22/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,11998,RAPANOS,SAW-2018-01896,Wilmington,NCDOT/U-5891/NC 50/DIV 5,-78.68446999999999,35.95122,5/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+60,11751,RAPANOS,SAW-2017-01411,Wilmington,RP Wellons Land and Development LLC / Middleton Townes SD,-78.6219,35.32942,1/31/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,11145,RAPANOS,SAW-2015-02050,Wilmington,Phillip Rotella Boat Access Channel,-80.94492,35.632690000000004,10/20/2015,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+62,11944,RAPANOS,SAW-2018-01056,Wilmington,Beam Road,-80.92469,35.16602,3/21/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,8457,RAPANOS,SAC-2015-01676,Charleston,"Limehouse Tract, Hwy 78",-80.11936,33.006479999999996,4/8/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+64,12155,RAPANOS,SAW-2019-02381,Wilmington,Duke-Energy / Buncombe County,-82.60226,35.6653,2/10/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,14534,RAPANOS,SAW-2016-00544,Wilmington,Robeson County Landfill Expansion/JD,-78.91459,34.793620000000004,4/4/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,8284,RAPANOS,SAC-2014-01191,Charleston,Greenwood Partnership Alliance,-82.21916,34.32286,8/10/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+67,12169,RAPANOS,SAW-2020-00134,Wilmington,Williamsburg Solar / High Rock Road / NC Hwy 87 / Reidsville / Rockingham County / solar / renewable energy,-79.55877,36.27805,6/10/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+68,11440,RAPANOS,SAW-2016-00649,Wilmington,Southeastern Baptist Theological Seminary/875 Stadium Dr./Wake Forest/Wake County ,-78.52674,35.990829999999995,5/4/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+69,11995,RAPANOS,SAW-2018-01842,Wilmington,"Howard, C.A. - 196 Barnard Rd./Currituck/JD",-75.89175,36.256479999999996,5/3/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+70,11853,RAPANOS,SAW-2018-00036,Wilmington,City of Durham_EB-5904_Duke Beltline Trail_Div5,-78.89746,36.00652,5/3/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+71,11362,RAPANOS,SAW-2016-00276,Wilmington,Winding Creek Dam Repair,-82.97713,35.10801,4/19/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+72,10790,RAPANOS,SAW-2000-01183,Wilmington,B & M HOLDINGS/8330 and 8342 Market Street/JD,-77.78607,34.300129999999996,7/18/2016,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+73,12055,RAPANOS,SAW-2019-00805,Wilmington,Friday Center Drive / UNC / Orange County,-79.0124,35.8959,3/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+74,12141,RAPANOS,SAW-2019-02086,Wilmington,7420 and 7500 Masonboro Loop Road_McDonald Property,-77.85493000000001,34.17873,5/13/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+75,12164,RAPANOS,SAW-2020-00076,Wilmington,"Wendell Boulevard Corridor Improvements / Town of Wendell / Wendell, Wake County",-78.37565,35.788709999999995,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+76,12087,RAPANOS,SAW-2019-01284,Wilmington,Pierce Olive Tract/AJD/Cary/Wake County ,-78.77835,35.67812,5/6/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+77,11740,RAPANOS,SAW-2017-01245,Wilmington,Morrisville  Stormwater Control Measure (SCM)  / 101-199 Town Hall Drive / Wake County / Morrisville NC,-78.83096,35.82261,11/13/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+78,8325,RAPANOS,SAC-2015-00706,Charleston,"Barefoot Landing Commercial, LLC. / Barefoot Landing Retail Expansion",-78.74502,33.79954,12/16/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+79,8253,RAPANOS,SAC-2013-00370,Charleston,Oliphant Tract,-81.1259,34.736999999999995,5/9/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+80,12160,RAPANOS,SAW-2019-02462,Wilmington,"Reid, James/Sandmine PJD/ Gates",-76.77308000000001,36.39955,2/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,11304,RAPANOS,SAW-2016-00028,Wilmington,Terrell Residence Seawall Shoreline Stabilization,-82.9407,35.1252,1/25/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+82,8098,RAPANOS,SAC-1997-37559,Charleston,Luxury RV Park fka Hilton Head National Golf Club,-80.83054,32.2349,2/6/2017,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+83,12074,RAPANOS,SAW-2019-01046,Wilmington,Wilkes County Landfill,-80.98899999999999,36.2125,8/26/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+84,11632,RAPANOS,SAW-2016-02454,Wilmington,"Bow, Daniel/Currituck/PreApp",-76.23099,36.5101,1/27/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,12139,RAPANOS,SAW-2019-02054,Wilmington,Century Communities Southeast LLC / Retreat at Rocky River Road,-80.69233,35.2721,2/5/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,11883,RAPANOS,SAW-2018-00422,Wilmington,9200 Lake Wheeler Rd/Fuquay Varina/Wake County,-78.72003000000001,35.64736,4/5/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+87,11867,RAPANOS,SAW-2018-00195,Wilmington,Saratoga SD_Britton Tract_NC Highway 210,-77.7701,34.3954,6/21/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+88,8809,RAPANOS,SAC-2016-01760,Charleston,Shaw Air Force Base / Poinsett Electronic Combat Range - South Site,-80.4863,33.80069,2/7/2017,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+89,11533,RAPANOS,SAW-2016-01447,Wilmington,Sun Energy 1 Solar Site Elizabeth City,-76.29838000000001,36.26869,7/22/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,12118,RAPANOS,SAW-2019-01756,Wilmington,"UNX Industries, Inc. Candor Site/Pitt",-77.3651,35.582159999999995,10/18/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,11795,RAPANOS,SAW-2017-01976,Wilmington,NCDOT_U-6020_Realign Intersection of NC56 (East C Street) & SR1215 (West Lyon Station Road)_Div5,-78.72707,36.15047,2/6/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+92,12022,RAPANOS,SAW-2019-00226,Wilmington,Doggett Properties / Doggett Associates LLC / Jones Sausage Road and Wilmington Road / Garner / Wake County / commercial,-78.5939,35.71932,4/9/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+93,14533,RAPANOS,SAW-2016-00531,Wilmington,Oakwood Solar Farm / 6517 US Highway 70 / Mebane / Orange County / solar / renewable energy,-79.23321999999999,36.091390000000004,6/21/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+94,14540,RAPANOS,SAW-2017-00062,Wilmington,Ford Solar Farm,-77.79645,35.26615,3/16/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+95,9651,RAPANOS,SAC-2018-01806,Charleston,"Ganymede Solar, LLC",-80.66223000000001,33.560759999999995,4/8/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+96,11956,RAPANOS,SAW-2018-01190,Wilmington,"Cornatzer, Neil / Solar Farm",-80.46113000000001,35.993970000000004,6/14/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,12184,RAPANOS,SAW-2020-00530,Wilmington,216 Deerlake Road Development / Lift Holdings LLC  ,-82.72456,35.250009999999996,6/1/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,9916,RAPANOS,SAC-2019-01173,Charleston,"First Solar Development, LLC / Covington Solar Project",-79.92685999999999,34.68444,1/2/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+99,14481,RAPANOS,SAC-2016-01505,Charleston,JD-Redwing Solar,-79.88644000000001,34.27467,1/11/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+100,12110,RAPANOS,SAW-2019-01611,Wilmington,Carol Landers,-82.60414,35.60705,11/13/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+101,11712,RAPANOS,SAW-2017-00866,Wilmington,"Ragan, James E. / Jurisdictional Determination",-76.63172,35.07724,5/1/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+102,8886,RAPANOS,SAC-2017-00244,Charleston,306-Acre US 221/Floyd Road Site,-81.90044,34.99709,5/18/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+103,11472,RAPANOS,SAW-2016-00904,Wilmington,"Spivey, Rebecca/Proposed Pond",-79.68008,35.6905,5/17/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+104,14482,RAPANOS,SAC-2016-01623,Charleston,Scarlet Solar,-79.8786,34.28054,11/28/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+105,11477,RAPANOS,SAW-2016-00932,Wilmington,Sellers Farm / Richmond ,-79.66486,34.88199,6/28/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,11746,RAPANOS,SAW-2017-01347,Wilmington,Skyway Church Road,-79.35528000000001,34.75663,7/14/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+107,11426,RAPANOS,SAW-2016-00553,Wilmington,"Autry, Jeff / Gardner Mine / JD",-78.83383,35.350390000000004,5/24/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+108,11754,RAPANOS,SAW-2017-01499,Wilmington,"804 Texas Avenue, Carolina Beach",-77.90584,34.01726,7/25/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,11779,RAPANOS,SAW-2017-01790,Wilmington,Herons Nest / Village Road SW,-78.40155,33.9542,8/30/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+110,12059,RAPANOS,SAW-2019-00876,Wilmington,Bob Murray 15 acre site/South Main Street/Rolesville/Wake County ,-78.47725,35.90844,5/24/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,11052,RAPANOS,SAW-2015-01212,Wilmington,"4388 George II Highway, Southport",-78.0362,33.9884,11/17/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+112,10983,RAPANOS,SAW-2014-01588,Wilmington,"Mangum Design-Build, Ponderosa Site",-78.77839,35.74373,6/2/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+113,9739,RAPANOS,SAC-2019-00294,Charleston,Carter II Tract JD,-78.9368,33.9054,5/20/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+114,11919,RAPANOS,SAW-2018-00784,Wilmington,Johnston Road - Richard C. Sapp - Nash County,-77.76231999999999,36.08664,4/30/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+115,11641,RAPANOS,SAW-2016-02541,Wilmington,Camp Springs Solar / 10516 Cherry Grove Road / Reidsville / Caswell County / Solar / Renewable Energy,-79.50961,36.28148,8/13/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+116,11999,RAPANOS,SAW-2018-01904,Wilmington,Apple Creek Corporate Center Part Three,-81.22754,35.322359999999996,7/2/2019,0,1,0,0,0,0,1,0,1,1,0,1,1,1
+117,11650,RAPANOS,SAW-2017-00135,Wilmington,Woodsdale Solar Farm / 950 Woodsdale Road / Roxboro / Person County / renewable energy,-78.9577,36.46423,3/14/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+118,12075,RAPANOS,SAW-2019-01072,Wilmington,Miles Garrison / 1525 Wandering Way Drive,-80.79654000000001,35.14371,1/31/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+119,11407,RAPANOS,SAW-2016-00447,Wilmington,Floyd Solar Farm_5438 Stone Road_Jeffery and Sherry Floyd/2-Acre Addition,-79.1384,34.510259999999995,3/4/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,11890,RAPANOS,SAW-2018-00493,Wilmington,Lincoln Elementary School_1664 Lincoln Road NE,-78.0432,34.2628,6/20/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,14487,RAPANOS,SAC-2017-00328,Charleston,"Gaines, Roger / Gaines Solar Farm",-80.21781999999999,34.19288,5/12/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+122,11545,RAPANOS,SAW-2016-01575,Wilmington,South Toe Streambank Stabilization,-82.20676,35.76062,9/14/2016,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+123,11985,RAPANOS,SAW-2018-01661,Wilmington,"Reise, Brian - Hitching Post Ln/Lenoir/NPR",-77.60294,35.18748,8/20/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,11991,RAPANOS,SAW-2018-01768,Wilmington,8801 Ligon Mill Rd/AJD/Wake Forest/Wake County ,-78.52555,35.91898,9/6/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,11397,RAPANOS,SAW-2016-00411,Wilmington,Halvorsen Development Corporation_Guess Rd Mixed-Use Center,-78.92838,36.078559999999996,4/7/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+126,11553,RAPANOS,SAW-2016-01633,Wilmington,Martin Marietta East Alamance Quarry property / Sandy Cross Road / Green Level / Alamance County / commercial,-79.35183,36.13678,1/11/2017,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+127,11474,RAPANOS,SAW-2016-00914,Wilmington,Theo Farantatos / 6024 Caledonia Street / Wake County / Raleigh NC 27609,-78.64846,35.866659999999996,5/9/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,8594,RAPANOS,SAC-2016-00675,Charleston,East Rail Park Industrial Site,-82.0959,34.2245,6/8/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+129,8808,RAPANOS,SAC-2016-01759,Charleston,Shaw Air Force Base / Poinsett Electronic Combat Range - North Site,-80.48855,33.83088,2/2/2017,0,1,0,0,0,0,0,0,1,1,0,1,0,1
+130,11429,RAPANOS,SAW-2016-00572,Wilmington,"Kelly, Jeff/ Boat dock",-80.9408,35.5397,4/7/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+131,8967,RAPANOS,SAC-2017-00746,Charleston,"Floyd, Sarah / Ridge Road Tract",-79.18764,33.957770000000004,4/17/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+132,8950,RAPANOS,SAC-2017-00594,Charleston,Reidville Road Project Site,-82.11901,34.86184,1/31/2018,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+133,12125,RAPANOS,SAW-2019-01838,Wilmington,Phillips Place/residential subdivision/Award St/Fuquay Varina/Wake County,-78.79703,35.56804,11/5/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+134,11085,RAPANOS,SAW-2015-01530,Wilmington,Deer Lake Maintenance Dredging,-82.72995999999999,35.25096,10/20/2015,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+135,11690,RAPANOS,SAW-2017-00679,Wilmington,Old Wire Rd Edwin Snead,-79.40098,34.87601,4/14/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,11691,RAPANOS,SAW-2017-00682,Wilmington,Chuck Hough/Martin,-76.78867,35.84008,4/27/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,11949,RAPANOS,SAW-2018-01096,Wilmington,301 Ocean Boulevard East_Warner Hersey,-78.2496,33.9149,7/8/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,11799,RAPANOS,SAW-2017-02024,Wilmington,"Fields, Glenda / 233 Ransom Road / Ransom Solar Farm",-78.32961999999999,34.95767,1/9/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+139,11311,RAPANOS,SAW-2016-00052,Wilmington,"Duke Energy Carolinas, LLC, Mountain Island Embankment Seismic Stability Improvements",-80.98875,35.33018,2/1/2016,0,1,0,0,0,1,1,0,1,0,1,0,1,1
+140,11870,RAPANOS,SAW-2018-00240,Wilmington,Publix Distribution Center / Birch Creek Road and US Highway 70 / McLeansville / Guilford County,-79.6587,36.0814,7/3/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+141,11834,RAPANOS,SAW-2017-02495,Wilmington,Lotus Bakeries / North Carolina Industrial Center / Park Center Drive / Mebane / Alamance County / industrial,-79.29571,36.086240000000004,4/17/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+142,11946,RAPANOS,SAW-2018-01068,Wilmington,Line 99_Southport Site_Piedmont Natural Gas,-77.9918,33.93837,5/30/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,11251,RAPANOS,SAW-2015-02509,Wilmington,NCDOT/SR1302/B-5142/Div12,-80.8665,35.6264,11/13/2015,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+144,11792,RAPANOS,SAW-2017-01922,Wilmington,Windsor Investments / 2603 Willard Road and 2304 Hickswood Road / High Point / Guilford County / residential,-79.9626,36.015240000000006,11/20/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+145,11875,RAPANOS,SAW-2018-00334,Wilmington,8073 River Road ,-78.03116999999999,33.96477,5/18/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,14474,RAPANOS,SAC-2015-01563-4S,Charleston,Atlantic Solar,-79.35991,34.39976,9/4/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,12048,RAPANOS,SAW-2019-00687,Wilmington,"Wyse Fork Solar Farm, LLC/Jones County",-77.50451,35.21415,6/3/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+148,11886,RAPANOS,SAW-2018-00460,Wilmington,UNC Charlotte East Village,-80.72501,35.30802,3/20/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+149,11807,RAPANOS,SAW-2017-02171,Wilmington,Roger and Deborah Lance - 6361 Old Shallotte Rd.,-78.48145,33.96232,2/5/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,11462,RAPANOS,SAW-2016-00822,Wilmington,"Energy Renewal partners, LLC / Washington Solar Project / Rockingham County / ",-79.79284,36.2723,6/6/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+151,14489,RAPANOS,SAC-2017-00545,Charleston,"Jackson Solar, LLC",-81.79719,33.35076,11/2/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,12198,RAPANOS,SAW-2020-00907,Wilmington,2054 Union Church Road / Cameron NC / Moore County,-79.34725,35.31239,6/5/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+153,12138,RAPANOS,SAW-2019-02040,Wilmington,1530 Kirkpatrick Road / Burlington / Alamance County / commercial,-79.48944,36.04871,5/22/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+154,11749,RAPANOS,SAW-2017-01380,Wilmington,Thad Davis-Chicken Houses Hall Road,-79.15977,34.89707,7/14/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,12142,RAPANOS,SAW-2019-02087,Wilmington,Hannah Carroll_3220 Gillespie Street_Fayetteville,-78.90539,34.991,11/12/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,11569,RAPANOS,SAW-2016-01914,Wilmington,"Anderson, Rex/Currituck/PreApp",-75.8494,36.4511,10/31/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,11531,RAPANOS,SAW-2016-01427,Wilmington,Gwynn Valley Camp Dining Hall Replacement,-82.7405,35.1705,8/16/2016,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+158,9056,RAPANOS,SAC-2017-01188,Charleston,Project Peach,-81.69785999999999,35.09977,10/31/2019,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+159,14472,RAPANOS,SAC-2015-01547-4S,Charleston,Gary Solar,-80.22104,34.19908,10/27/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+160,11151,RAPANOS,SAW-2015-02103,Wilmington,Grandfather Golf and Country Club drain pipe and dam repairs,-81.85582,36.09669,11/6/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+161,9042,RAPANOS,SAC-2017-01095,Charleston,Cross Rhodes Industrial Park,-81.07469,33.26375,3/15/2018,0,1,0,0,0,0,1,0,1,0,0,0,1,1
+162,14544,RAPANOS,SAW-2017-02399,Wilmington,Max & Judy Latham Margles Dr JD,-81.78186,35.295190000000005,12/6/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,12083,RAPANOS,SAW-2019-01154,Wilmington,Kolter Homes LLC / Potter Road Site / Cresswind at Wesley Chapel,-80.66821999999999,34.98692,10/8/2019,0,1,0,0,0,0,1,0,1,1,0,1,1,1
+164,11818,RAPANOS,SAW-2017-02329,Wilmington,Cambridge Park / Turner Road / Mebane / Alamance County / residential,-79.2963,36.044740000000004,6/1/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+165,11849,RAPANOS,SAW-2017-02619,Wilmington,Petula Prolix Development Co. / Page Road Parcels,-78.84921999999999,35.87814,2/3/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+166,11609,RAPANOS,SAW-2016-02264,Wilmington,131 Old Mill Road and 160 Buena Vista Avenue / High Point / Guilford County / residential,-80.03549,36.01962,1/25/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+167,11743,RAPANOS,SAW-2017-01319,Wilmington,Leary Mills_Piedmont Natural Gas/Pitt,-77.20331,35.44061,10/30/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,11781,RAPANOS,SAW-2017-01799,Wilmington,Seaforth Road School Site/Pittsboro/Chatham County,-79.06253000000001,35.73268,9/13/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+169,12044,RAPANOS,SAW-2019-00665,Wilmington,Moser Hall 1 LLC / Calvin Hall and Grant E Hall / James Hamilton Road,-80.59891,35.0403,5/21/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+170,11106,RAPANOS,SAW-2015-01747,Wilmington,Gerald Wood Dredge,-80.88084,35.504979999999996,8/28/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+171,8393,RAPANOS,SAC-2015-01187-3JY,Charleston,Tracy Level / Level Property ,-79.32459,33.32083,5/27/2016,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+172,11721,RAPANOS,SAW-2017-00993,Wilmington,"Bonney, Benjamin / NPR AJD",-75.99651,35.52653,5/1/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+173,12128,RAPANOS,SAW-2019-01872,Wilmington,8740 Market Street,-77.77741,34.30849,1/17/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,11456,RAPANOS,SAW-2016-00789,Wilmington,Hassentree subdivision/phase 9/Stoney Hill Rd./Wake Forest/Wake County ,-78.60678,35.9841,4/21/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+175,11901,RAPANOS,SAW-2018-00609,Wilmington,Jordan Vistas/HRBA site/New Hill Olive Chapel Rd/Apex/Wake County ,-78.94091999999999,35.68543,10/7/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+176,9530,RAPANOS,SAC-2018-01202,Charleston,Greenwood Quarry North Overburden Area,-82.14205,34.3011,5/22/2019,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+177,11102,RAPANOS,SAW-2015-01692,Wilmington,Bette Stephenson dredge,-80.91079,35.48722,8/28/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+178,11663,RAPANOS,SAW-2017-00283,Wilmington,4226 Gerald Rd. - Terry Sampson,-79.22371,34.50032,5/1/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,11239,RAPANOS,SAW-2015-02464,Wilmington,Michael Praeger Dredge,-80.8952,35.5034,2/22/2016,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+180,11727,RAPANOS,SAW-2017-01064,Wilmington,719 Atlanta Ave,-77.90621,34.032920000000004,5/24/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+181,12136,RAPANOS,SAW-2019-02004,Wilmington,104 Inverness Court/Piscitelli/Craven,-77.11841,35.11643,10/23/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,11778,RAPANOS,SAW-2017-01787,Wilmington,9th Ave North Topsail,-77.47166,34.46925,11/21/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,14523,RAPANOS,SAW-2008-00176,Wilmington,"4718 Oriole Drive/Oriole Partners, LLC",-77.8711,34.2382,9/21/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+184,8337,RAPANOS,SAC-2015-00812-DS,Charleston,SCDOT US 21& SC 51 Intersection in York County (SCDOT PIN 42332),-80.93264,35.07699,7/1/2016,0,1,0,0,0,0,1,0,1,1,0,0,1,1
+185,8415,RAPANOS,SAC-2015-01255-4S,Charleston,Marion Farms,-79.37132,34.06272,1/6/2016,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+186,12179,RAPANOS,SAW-2020-00403,Wilmington,Carolina Sunrock / 12971 NC 62 / Burlington / Caswell County / industrial,-79.32638,36.25158,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+187,10883,RAPANOS,SAW-2008-01941,Wilmington,Max Smith/Ross Green/Braxton Road,-78.92715,34.92699,2/24/2016,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+188,11105,RAPANOS,SAW-2015-01695,Wilmington,Laura Engle dredge,-80.90978,35.461870000000005,8/28/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+189,10985,RAPANOS,SAW-2014-01615,Wilmington,Saddlebrook subdivision/Lawrence Tract/Richardson Rd./Apex/Wake County,-78.92841999999999,35.72551,10/23/2015,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+190,10847,RAPANOS,SAW-2006-41576,Wilmington,"Ocean Isle Estates/1611 Waterway Drive/Waterboro Village Management, LLC",-78.45071999999999,33.8969,9/22/2016,1,1,1,0,1,0,1,0,1,1,0,1,1,1
+191,11918,RAPANOS,SAW-2018-00779,Wilmington,United Church Homes and Services Monte Vista Drive Site,-81.17964,35.65014,6/29/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,11961,RAPANOS,SAW-2018-01268,Wilmington,Linda McCall_#6724 Carolina Beach Road-uplands-SEGI_Scibetta,-77.8985,34.09187,6/25/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,11664,RAPANOS,SAW-2017-00284,Wilmington,Robbie White Tract,-78.38466,33.97553,4/25/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,11789,RAPANOS,SAW-2017-01873,Wilmington,Colvard Farms/Colvard Farms Road/Durham/NC,-78.95653,35.86919,9/29/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+195,11993,RAPANOS,SAW-2018-01820,Wilmington,Jen Investments / 1920 NC Highway 54 / Graham / Alamance County / residential,-79.35668000000001,36.04128,8/12/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+196,11940,RAPANOS,SAW-2018-01000,Wilmington,Profile Homes University East LLC University City Townhomes,-80.7325,35.2803,10/2/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+197,11724,RAPANOS,SAW-2017-01023,Wilmington,NCDOT_U-2901_NC55_Apex_Div5,-78.85131,35.724790000000006,7/11/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+198,11863,RAPANOS,SAW-2018-00186,Wilmington,Burlington-Alamance Site #3 / Anthony Road / Burlington / Alamance County / commercial,-79.45375,36.03993,6/4/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+199,10837,RAPANOS,SAW-2006-30511,Wilmington,Springs of North Asheville / AJD,-82.5884,35.667,6/10/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+200,12013,RAPANOS,SAW-2018-02170,Wilmington,Fayetteville Senior Center_7520 Raeford Road_Cumberland,-79.0452,35.0322,3/15/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,11785,RAPANOS,SAW-2017-01828,Wilmington,Holly Tree Sidewalk Extension,-77.8885,34.1947,8/29/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,11959,RAPANOS,SAW-2018-01222,Wilmington,Toyota of New Bern,-77.98665,35.00525,6/19/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,11996,RAPANOS,SAW-2018-01854,Wilmington,Pelham Solar Farm / 859 Gwynns Chapel Road / Pelham / Caswell County / solar / renewable energy,-79.48485,36.46428,11/14/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+204,11871,RAPANOS,SAW-2018-00260,Wilmington,Yates Tract / 3705 Davis Drive / Wake County / Morrisville NC,-78.85089,35.82605,12/18/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,9494,RAPANOS,SAC-2018-01040,Charleston,Forestbrook Reality Tract,-78.96222,33.71347,11/26/2018,0,1,0,0,0,0,1,0,1,0,0,0,1,1
+206,11969,RAPANOS,SAW-2018-01344,Wilmington,Miranda Village,-80.87973000000001,35.331070000000004,1/22/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+207,12038,RAPANOS,SAW-2019-00524,Wilmington,Magnolia Walk / 1520 New Bethel Church Road / Mattamy Homes / Garner / Wake County / residential,-78.60027,35.65231,1/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+208,11782,RAPANOS,SAW-2017-01803,Wilmington, 4934-B Westpark A ,-78.11013,35.019529999999996,2/14/2019,0,1,0,0,0,0,1,1,0,0,1,1,0,0
+209,9240,RAPANOS,SAC-2017-01971,Charleston,Chestnut Street,-82.11528,34.858740000000004,5/4/2018,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+210,8231,RAPANOS,SAC-2011-00841,Charleston,Jimmy Smoak / J. Shirer Site,-80.8427,33.459990000000005,10/31/2017,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+211,12197,RAPANOS,SAW-2020-00905,Wilmington,1408 St Marks Church Road / Burlington NC / Alamance County,-79.51566,36.0712,6/19/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,9434,RAPANOS,SAC-2018-00784,Charleston,Giant Cement,-80.41274,33.236090000000004,3/13/2019,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+213,11275,RAPANOS,SAW-2015-02619,Wilmington,Lake Crabtree Park / Kayak Put-in Facility / Wake County / Morrisville NC,-78.79463,35.8393,2/4/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+214,11831,RAPANOS,SAW-2017-02482,Wilmington,"Soil and Environmental Consultants, PA / Blue Grass Road Site",-78.76593000000001,35.92583,8/1/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+215,11408,RAPANOS,SAW-2016-00459,Wilmington,"Barnes, Josephine_Poultry houses",-78.15968000000001,35.72576,3/8/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+216,11375,RAPANOS,SAW-2016-00310,Wilmington,Kevin Tarpey dredge,-80.91903,35.51421,4/6/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+217,12092,RAPANOS,SAW-2019-01306,Wilmington,101 Waterfield Ridge Place / Greenfield / Garner / Wake County / commercial,-78.56069000000001,35.686370000000004,5/6/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+218,11146,RAPANOS,SAW-2015-02051,Wilmington,Michelle Mercier Boat Access Channel,-80.96337,35.48437,10/20/2015,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+219,11337,RAPANOS,SAW-2016-00155,Wilmington,Stafford,-80.83265,35.556740000000005,2/22/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+220,11652,RAPANOS,SAW-2017-00203,Wilmington,7375 Market Street,-77.8159,34.2766,8/28/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+221,10895,RAPANOS,SAW-2009-00558,Wilmington,Battle Park; New Hanover County Parks and Recreation Department; 6101 Carolina Beach Road; R07900-003-001-000,-77.89875,34.11786,5/13/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+222,10082,RAPANOS,SAC-2020-00310,Charleston,Highway 548 Alley Tract,-79.10638,33.8712,5/6/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+223,12175,RAPANOS,SAW-2020-00269,Wilmington,Evolve Companies / Carolina Lily Lane,-80.72965,35.3698,6/8/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+224,11346,RAPANOS,SAW-2016-00184,Wilmington,Sisters Cove Phase II,-80.87435,35.62445,4/12/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+225,11911,RAPANOS,SAW-2018-00741,Wilmington,231 Woodland Drive_5030 and 5032 Heide Drive_Stephen Williams,-77.8703,34.2158,8/10/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+226,11320,RAPANOS,SAW-2016-00107,Wilmington,"Lennar Carolinas, LLC, Chateau ",-80.97651,35.09127,4/18/2016,0,1,0,0,0,0,1,0,0,1,0,1,0,1
+227,12170,RAPANOS,SAW-2020-00139,Wilmington,2000 Pennington Grove Way / Garner  / Wake County / residential,-78.61304,35.68942,6/10/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+228,11111,RAPANOS,SAW-2015-01818,Wilmington,Deerfield 2,-77.71455999999999,34.35838,10/1/2015,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+229,10935,RAPANOS,SAW-2012-00367,Wilmington,"Stedman landfill site, request for sensitive environement informaiton letter",-78.66497,35.07155,1/27/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+230,8567,RAPANOS,SAC-2016-00538,Charleston,Shaw AFB,-80.47019,33.97485,7/28/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+231,11763,RAPANOS,SAW-2017-01630,Wilmington,"1208 Snapper Lane, Carolina Beach",-77.8994,34.02193,8/9/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,11798,RAPANOS,SAW-2017-01993,Wilmington,Piraino Brothers LLC / Cambridge Park - 1501 McKee Road JD,-80.71566999999999,35.08283,2/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+233,11981,RAPANOS,SAW-2018-01569,Wilmington,Watson Farm,-79.19136999999999,34.89221,8/15/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+234,11905,RAPANOS,SAW-2018-00661,Wilmington,512 West George Street / Parcel ID 237LA02810 / Steve Harney,-78.02672,33.92197,4/6/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,12043,RAPANOS,SAW-2019-00663,Wilmington,John Huson / 4928 Old Pineville Road,-80.87968000000001,35.17273,7/2/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,8387,RAPANOS,SAC-2015-01137,Charleston,Scott Creek Interceptor Rehabilitation Project,-81.61438000000001,34.27561,1/7/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+237,11842,RAPANOS,SAW-2017-02541,Wilmington,3958 Doon Valley Road_Lot 839 Glen Eagle at Gates Four_Joseph P. Riddle III,-79.0235,35.0028,4/20/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,11555,RAPANOS,SAW-2016-01659,Wilmington,"Sipka, Bobby/Lot7.Arabian Acres/Currituck/PreApp",-76.08894000000001,36.44233,8/25/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,11453,RAPANOS,SAW-2016-00770,Wilmington,379 Holston Village Road House Site,-82.97861,35.51395,7/14/2016,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+240,8229,RAPANOS,SAC-2011-00819-DS,Charleston,SCDOT SC-262 (Lower Richland Blvd) Richland County JD Request: SCDOT PIN 39032_RD01,-80.90182,33.98348,1/5/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+241,11023,RAPANOS,SAW-2015-00668,Wilmington,"Thel Langdon, Langdon Solar",-78.41362,35.447309999999995,1/20/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+242,12176,RAPANOS,SAW-2020-00295,Wilmington,Booney Mill Pond Tract/Harry Nicholson Lane/Town of Wallace,-77.9832,34.747,6/19/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+243,9699,RAPANOS,SAC-2019-00115,Charleston,Diff Avenue Tract,-78.8939,34.0711,4/17/2019,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+244,11955,RAPANOS,SAW-2018-01156,Wilmington,2804 / 2808 / 2818 Macedonia Road / Wake County / Cary NC,-78.73904,35.74796,1/29/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+245,11413,RAPANOS,SAW-2016-00498,Wilmington,BRE NC Solar 4 / 1264 Baltimore Road / Warren County / Warrenton NC,-78.15071,36.352,4/26/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,11722,RAPANOS,SAW-2017-01019,Wilmington,Wilerson Solar / S W Thaxton Road and Frank Fox Road / Roxboro / Person County / solar renewable energy,-78.9677,36.4153,8/21/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+247,11980,RAPANOS,SAW-2018-01543,Wilmington,219 Buffalo Dr-Ashley Oxendine,-79.32656,34.74038,8/3/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,11568,RAPANOS,SAW-2016-01874,Wilmington,Country Club of Asheville Pipe Replacement/Bank Stabilization,-82.55501,35.64091,9/21/2016,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+249,11684,RAPANOS,SAW-2017-00619,Wilmington,Mt Zion Road Richard Moore,-79.26442,34.82662,4/10/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,12168,RAPANOS,SAW-2020-00114,Wilmington,FedEx Freight / 5203 Chin Page Road / Durham NC / Durham County,-78.83367,35.89804,3/17/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+251,14479,RAPANOS,SAC-2016-01290,Charleston,Edison Solar,-81.38369,33.24638,1/29/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,9695,RAPANOS,SAC-2019-00086,Charleston,Abbeville Solar Project,-82.40394,34.21597,7/2/2019,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+253,11850,RAPANOS,SAW-2017-02622,Wilmington,Geneva subidivison/Walters Property/Angier Rd./Fuquay Varina/Wake County ,-78.78504000000001,35.555440000000004,5/1/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+254,11837,RAPANOS,SAW-2017-02510,Wilmington,Quail Hollow Village,-80.85432,35.11656,12/6/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,9895,RAPANOS,SAC-2019-01106,Charleston,43 Cockleshell Court,-79.0819,33.4943,9/26/2019,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+256,11240,RAPANOS,SAW-2015-02466,Wilmington,Perserve at Marvin,-80.81394,34.99431,3/25/2016,1,1,1,0,0,0,1,1,1,0,0,1,0,0
+257,11737,RAPANOS,SAW-2017-01189,Wilmington,Gamble Solar Site,-81.81737,35.3491,2/28/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,11931,RAPANOS,SAW-2018-00885,Wilmington,Piedmont Natural Gas / Line 446 / Belews Creek Pipeline / Guilford / Rockingham / Stokes / commercial,-79.98796,36.2582,11/26/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+259,11322,RAPANOS,SAW-2016-00111,Wilmington,Ashley Rohats Dredge,-80.91514000000001,35.554109999999994,2/26/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+260,11551,RAPANOS,SAW-2016-01602,Wilmington,Satterfield_Susan_Boston Solar Farm,-78.91435,36.47806,2/1/2017,0,1,0,0,0,0,0,0,1,1,0,1,0,1
+261,11406,RAPANOS,SAW-2016-00446,Wilmington,Jeffrey R. Bihn/115 Chuckwagon Drive/Lake Royale,-78.18935,35.9617,3/17/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+262,12090,RAPANOS,SAW-2019-01298,Wilmington,Duke Energy Renewables / Speedway Solar,-80.5345,35.2154,12/5/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+263,12028,RAPANOS,SAW-2019-00336,Wilmington,Airport Blvd site/Morrisville/Wake County ,-78.82661999999999,35.84468,2/25/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+264,12178,RAPANOS,SAW-2020-00398,Wilmington,"Lupold, Barrett/Pre-application JD",-79.32548,35.27795,3/2/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,8828,RAPANOS,SAC-2017-00023,Charleston,6.7 AC Bradham Tract,-80.08206,32.797740000000005,3/9/2017,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+266,11522,RAPANOS,SAW-2016-01346,Wilmington,"Selwyn Farms- Goodwin, Joseph & Debbie/ Stanbeck Ferry Rd",-79.98969,34.97566,10/6/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,12115,RAPANOS,SAW-2019-01675,Wilmington,Summerfield Charter 3718 Oak Ridge Road / Guilford County / Summerfield NC,-79.9154,36.20521,5/12/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+268,11155,RAPANOS,SAW-2015-02138,Wilmington,Ronald Nelson/1141 Sagamore Drive/Lot 2068/Lake Royale,-78.19025,35.96604,10/23/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+269,12173,RAPANOS,SAW-2020-00204,Wilmington,175 McPherson Rd/ Camden/ PJD,-76.35365999999999,36.51017,2/12/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+270,9714,RAPANOS,SAC-2019-00167,Charleston,Black Bear Tract,-78.7583,34.00056,5/23/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+271,11647,RAPANOS,SAW-2017-00074,Wilmington,Wight Site / Southwick Solar Farm / 3058 Boywood Road / Swepsonville / Alamance County / solar / renewable energy,-79.36896,36.00936,1/26/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+272,12177,RAPANOS,SAW-2020-00303,Wilmington,"3000, 3002, & 3007 Petty Road / Durham NC / Durham County",-78.96004,35.97282,4/8/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,8110,RAPANOS,SAC-2002-34666-3H,Charleston,BELL TRACT,-78.67938000000001,33.87641,8/30/2017,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+274,11371,RAPANOS,SAW-2016-00306,Wilmington,Greg Gonzalez dredge,-80.89220999999999,35.501940000000005,2/26/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+275,12194,RAPANOS,SAW-2020-00683,Wilmington,"Mount Olive WWTP Improvements / Town of Mount Olive / Mount Olive, Wayne County",-78.03811999999999,35.19556,6/19/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+276,12009,RAPANOS,SAW-2018-02083,Wilmington,"309 W Henderson St, Marion Ingles",-82.01369,35.67443,11/13/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,11430,RAPANOS,SAW-2016-00575,Wilmington,Biltmore Lake Association/ Lake Dredging,-82.65575,35.53418,4/8/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+278,12007,RAPANOS,SAW-2018-02030,Wilmington,Faraday Solar_Harnett-Dunn Highway_Sampson,-78.39813000000001,35.24284,4/25/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,12104,RAPANOS,SAW-2019-01474,Wilmington,Meadowbrook Park Master Plan / Town of Garner /Garner / Wake County / municipal,-78.56924000000001,35.65968,6/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+280,12192,RAPANOS,SAW-2020-00672,Wilmington,Polk Solar / NC 177 / Hamlet / Richmond County / solar / renewable energy,-79.65284,34.92792,4/13/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+281,11953,RAPANOS,SAW-2018-01118,Wilmington,"Fitch Creations, Inc./Fearrington Property",-79.08740999999999,35.79333,6/29/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+282,8365,RAPANOS,SAC-2015-01025-3JY,Charleston,4 Acre Johnson Tract,-78.88474000000001,33.8281,1/13/2016,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+283,11604,RAPANOS,SAW-2016-02179,Wilmington,NCDOT/Replace Bridge 405 on SR 2752 over Norfolk and Southern Railroad TIP 17BP.5.R.85 Wake Cty NC,-78.71818,35.62421,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,11970,RAPANOS,SAW-2018-01357,Wilmington,Alamance Quarry and Construction Materials / 520 Clark Road / Snow Camp / Alamance County / commercial,-79.41855,35.87083,3/25/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+285,11904,RAPANOS,SAW-2018-00616,Wilmington,ALBEMARLE LITHIUM MINE,-81.34817,35.223490000000005,6/19/2018,0,1,0,0,0,0,1,0,1,1,0,1,1,1
+286,11813,RAPANOS,SAW-2017-02292,Wilmington,American Structurepoint Incorporated / Asbury  Chapel,-80.80591,35.3833,6/13/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+287,10947,RAPANOS,SAW-2012-01595,Wilmington,US Amry Ft Bragg/Little Muddy Lake dam repair,-79.46135,35.02993,12/28/2015,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+288,11745,RAPANOS,SAW-2017-01340,Wilmington,Purfoy Rd/Adcock site/Fuquay Varina/Wake County,-78.76997,35.55774,12/19/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+289,12145,RAPANOS,SAW-2019-02196,Wilmington,"Wendell III Site / Mr. Edd K. Roberts / Wendell, Wake County",-78.40463000000001,35.77424,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+290,9816,RAPANOS,SAC-2019-00728,Charleston,Chester Greenfield Site,-81.15395,34.72729,5/22/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+291,12035,RAPANOS,SAW-2019-00496,Wilmington,Harold J. and Marian Kidd_6623 Hopper Road_Hoke Loop Commons,-79.06291,35.055620000000005,6/20/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+292,11723,RAPANOS,SAW-2017-01020,Wilmington,"GRYB, BOB/JD",-76.59024000000001,35.300909999999995,5/10/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+293,8986,RAPANOS,SAC-2017-00833,Charleston,"McArthur Implement Co., LLC / Black River Solar Project",-80.21816,33.949690000000004,1/30/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+294,10815,RAPANOS,SAW-2005-00056,Wilmington,"CAPE FEAR COUNTRY CLUB / NORRIS, KUSKE, and TUNSTALL",-77.9196,34.2202,9/6/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+295,11230,RAPANOS,SAW-2015-02441,Wilmington,Andrew Hoyt dredge,-80.91879,35.516009999999994,12/8/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+296,11819,RAPANOS,SAW-2017-02366,Wilmington,Honda Power Equipment / 3721 NC 119 / Swepsonville / Alamance / commercial,-79.34344,36.0356,12/29/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+297,11072,RAPANOS,SAW-2015-01404,Wilmington,Lake Pointe Landing pond dredging,-82.44981,35.34142,11/9/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+298,8611,RAPANOS,SAC-2016-00775,Charleston,2308 Delano Street,-79.95784,32.829840000000004,6/21/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+299,14497,RAPANOS,SAC-2018-01470,Charleston,SCDOT US 76 interchange with US 601 in Richland Co (SCDOT ID P030264),-80.68629,33.941629999999996,3/24/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+300,9632,RAPANOS,SAC-2018-01705,Charleston,1627 Trailside Townes Watkins Road,-82.45492,34.90502,3/1/2019,0,1,0,0,0,0,1,0,1,0,0,0,1,1
+301,12064,RAPANOS,SAW-2019-00964,Wilmington,"Carlisle, Fields / Cleveland Bluffs Subdivision / Johnston County",-78.54213,35.57379,3/6/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+302,12015,RAPANOS,SAW-2018-02248,Wilmington,Leland Industrial Park Tract,-78.06241,34.27114,1/3/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+303,10914,RAPANOS,SAW-2010-01739,Wilmington,75 Associates Tract/Donna Cote/jurisdictional determination,-78.161,34.28709,5/25/2016,0,1,0,0,0,0,1,0,1,1,0,0,1,1
+304,10828,RAPANOS,SAW-2006-00574,Wilmington,MCFARLAND/MITIGATION BANK/PRELIMINARY JD,-77.69185,34.40331,12/10/2019,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+305,11913,RAPANOS,SAW-2018-00760,Wilmington,McCrimmon Parkway / Sun Life Site / Wake County / Cary NC,-78.88215,35.82989,2/11/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,12109,RAPANOS,SAW-2019-01570,Wilmington,Harold D Furr,-80.63871999999999,35.35004,10/16/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+307,11685,RAPANOS,SAW-2017-00624,Wilmington,801 Airport Boulevard / Wake County / Morrisville NC,-78.82598,35.854690000000005,6/19/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+308,11794,RAPANOS,SAW-2017-01953,Wilmington,Lidl/Steele Creek Site,-80.96958000000001,35.16111,11/27/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,12063,RAPANOS,SAW-2019-00945,Wilmington,Primax Properties / 2203 US Highway 29 Business / Reidsville / Rockingham County / residential,-79.67031,36.31564,1/2/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+310,11367,RAPANOS,SAW-2016-00299,Wilmington,John Seitz Shoreline Stabilization,-80.09161,35.46185,2/18/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+311,12147,RAPANOS,SAW-2019-02201,Wilmington,Capital Hills Apartments / 2815 Capital Blvd / Wake County / Raleigh NC,-78.59786,35.81862,3/27/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,8283,RAPANOS,SAC-2014-01189,Charleston,"Wesley Commons Site, 1110 Marshall Road",-82.12699,34.178470000000004,1/20/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+313,8647,RAPANOS,SAC-2016-00950,Charleston,Myrtle Beach State Park Pond,-78.93290999999999,33.65198,8/22/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+314,11925,RAPANOS,SAW-2018-00842,Wilmington,Yanceyville Wastewater Treatment Plant / Pine Drive / Yanceyville / Caswell County / municipal,-79.34063,36.39313,4/30/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+315,11764,RAPANOS,SAW-2017-01639,Wilmington,Harris Teeter Fuel Center,-77.78871,34.298429999999996,10/9/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+316,12096,RAPANOS,SAW-2019-01377,Wilmington,Wedge Solar Site / Pilot Environmental / Wayne County,-77.91489,35.41535,3/11/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+317,11736,RAPANOS,SAW-2017-01188,Wilmington,NCDOT_U-5825_TenTenRd_Widening_Div5,-78.81603,35.717690000000005,6/15/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+318,11600,RAPANOS,SAW-2016-02130,Wilmington,Jean and Michael Davis/3911 David Cox Rd,-80.79847,35.33652,12/5/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+319,8267,RAPANOS,SAC-2014-00336,Charleston,Cantillo Ct. Violation,-78.9361,33.805659999999996,8/21/2018,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+320,10912,RAPANOS,SAW-2010-01527,Wilmington,"NM of Iredell, LLC, D.B.A. Stutts Marina",-80.89366,35.54235,12/14/2015,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+321,11083,RAPANOS,SAW-2015-01519,Wilmington,Water Plant Road Property JD,-81.16664,35.5962,10/26/2015,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+322,14519,RAPANOS,SAW-2005-30087,Wilmington,CATAWBA COUNTY/BLACKBURN LANDFILL,-81.30043,35.60255,1/13/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+323,11851,RAPANOS,SAW-2017-02630,Wilmington,Villas of Concord,-80.68484000000001,35.38748,5/8/2018,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+324,11810,RAPANOS,SAW-2017-02255,Wilmington,2787 Thrower Road_ Coldstream Developers LLC,-78.8652,34.9088,11/13/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,9976,RAPANOS,SAC-2019-01505,Charleston,EPC Project #1658B WW Body Shop Road,-80.96621999999999,33.94487,6/17/2020,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+326,12112,RAPANOS,SAW-2019-01636,Wilmington,Fort Fisher State Park,-77.91711,33.9723,9/27/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,11915,RAPANOS,SAW-2018-00765,Wilmington,George Pittman / Emerald Pointe Homewoners Association / Wake County / Knightdale NC,-78.46341,35.81282,1/29/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,11425,RAPANOS,SAW-2016-00552,Wilmington,154 Great Oak Drive_Mike Riley_docking faciltiy,-77.6942,34.3497,6/23/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,11687,RAPANOS,SAW-2017-00635,Wilmington,W S Alexander Property JD George Buchholz Requestor,-80.78599,35.13321,2/1/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+330,11692,RAPANOS,SAW-2017-00687,Wilmington,139 Joe Henry Road/Gates/PJD,-76.88156,36.54934,4/11/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,12027,RAPANOS,SAW-2019-00320,Wilmington,Panther Lake Rd site/PIN 0686593519/Willow Springs/Wake County ,-78.71123,35.58895,5/1/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+332,8190,RAPANOS,SAC-2009-00772,Charleston,I-95 Mega Site,-80.09544,33.867779999999996,4/9/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+333,11841,RAPANOS,SAW-2017-02530,Wilmington,Da Thy Truong-Horsehoe Rd ,-79.39328,34.9344,3/5/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,8310,RAPANOS,SAC-2015-00432,Charleston,Southern Portion of Tyger River Industrial Park,-82.0349,34.86645,4/12/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+335,11424,RAPANOS,SAW-2016-00549,Wilmington,Moore II,-79.36820999999999,35.34198,5/16/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,11489,RAPANOS,SAW-2016-01065,Wilmington,Buckhorn Preserve/2301 Richardson Rd./Apex/Wake County ,-78.92246999999999,35.715340000000005,5/26/2017,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+337,11500,RAPANOS,SAW-2016-01141,Wilmington,"Carrie and Ted Coleman / Lot 21, Glenbrook Springs Section, Uwharrie Point / Montgomery",-80.09492,35.4755,6/15/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+338,11622,RAPANOS,SAW-2016-02344,Wilmington,879.4-acre Bay Tree Solar site ,-78.41077,34.7052,7/9/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+339,12062,RAPANOS,SAW-2019-00894,Wilmington,Poplin Village Site/ MT Land,-80.6077,35.0765,2/5/2020,1,1,0,1,0,0,1,0,1,1,0,0,1,1
+340,11495,RAPANOS,SAW-2016-01117,Wilmington,971 Newman Road,-77.09427,35.10855,6/15/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,11926,RAPANOS,SAW-2018-00852,Wilmington,Greentegrity / Old Laurinburg Road / Hamlet / Richmond County / commercial,-79.67343000000001,34.88068,6/1/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+342,12199,RAPANOS,SAW-2020-00925,Wilmington,Guilford Charter School Corp / 2240 East Cone Boulevard / Greensboro / Guilford County / institutional,-79.7401,36.1111,6/19/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+343,11228,RAPANOS,SAW-2015-02437,Wilmington,Knier Residence Seawall Repair,-82.9423,35.1359,1/13/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+344,14504,RAPANOS,SAC-2019-00754,Charleston,York County Solar Site,-81.18298,34.94552,5/15/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+345,10898,RAPANOS,SAW-2009-01063,Wilmington,Ocean Isle Palms by MAS see also SAW-2005-01036 and SAW-2005-00102,-78.43746999999999,33.92086,5/5/2017,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+346,11307,RAPANOS,SAW-2016-00031,Wilmington,4646 Sierra View Drive Boat Access Channel,-80.9631,35.5269,1/13/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+347,11661,RAPANOS,SAW-2017-00239,Wilmington,Morris Field Road Development/ CLT Airport,-80.94138000000001,35.23646,12/14/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,11498,RAPANOS,SAW-2016-01139,Wilmington,Johnathan Sedberry / Robedo Road / Montgomery County,-79.93239,35.31122,6/27/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,8941,RAPANOS,SAC-2017-00529,Charleston,General Electric Company / GE Building Expansion,-79.84455,34.18885,6/8/2017,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+350,11372,RAPANOS,SAW-2016-00307,Wilmington,Donald Benes dredge,-80.88020999999999,35.502390000000005,4/6/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+351,11951,RAPANOS,SAW-2018-01109,Wilmington,East Beach Drive Lot 11_Paul Jasinkiewicz,-78.11555,33.90982,8/6/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,11486,RAPANOS,SAW-2016-01030,Wilmington,Sawtell Solar Site,-82.37584,35.38055,3/1/2018,0,1,0,0,1,0,0,0,1,0,0,1,0,1
+353,11331,RAPANOS,SAW-2016-00133,Wilmington,100 Stonebridge Drive Pond Dredge & Dam Repair,-82.4667,35.2681,3/25/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+354,11149,RAPANOS,SAW-2015-02083,Wilmington,Vulcan Materials Company Rockingham Quarry,-79.81123000000001,34.93302,2/23/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+355,11878,RAPANOS,SAW-2018-00342,Wilmington,Brian Maynor-Wakulla Farms,-79.24897,34.80715,2/22/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,12188,RAPANOS,SAW-2020-00600,Wilmington,Powell Property/Old US 1 assemblage/Apex/Wake County ,-78.89867,35.7004,4/1/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+357,12001,RAPANOS,SAW-2018-01946,Wilmington,NCDOT_R-5718_SR 1003_Buffalo Road and US 70 interchange_Johnston_Div4,-78.31003,35.54334,5/20/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+358,9356,RAPANOS,SAC-2018-00465,Charleston,Heritage Road Development Tract,-78.89069,34.0012,12/17/2018,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+359,11132,RAPANOS,SAW-2015-01995,Wilmington,P Murphy Dredge,-80.93895,35.43377,1/8/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+360,11889,RAPANOS,SAW-2018-00491,Wilmington,Hutchinson JD,-82.2046,35.56718,3/20/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,12196,RAPANOS,SAW-2020-00869,Wilmington,Whitehall Subdivision Lot 194 / TAG Development Company / Wilson County,-77.92793,35.770790000000005,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+362,10025,RAPANOS,SAC-2019-01858,Charleston,Tirzah Solar Project,-81.13493000000001,34.98944,6/15/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+363,11733,RAPANOS,SAW-2017-01158,Wilmington, Pilot Project 2774 - Tamworth Solar,-78.4224,34.7448,9/28/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,10966,RAPANOS,SAW-2014-00922,Wilmington,Clyde Wood Site/Ray Rd./Cumberland ,-79.04565,34.99021,7/26/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+365,12159,RAPANOS,SAW-2019-02438,Wilmington,Slater Road Office / Churchill Partners LLC / Durham County,-78.83543,35.8745,1/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+366,9970,RAPANOS,SAC-2019-01478,Charleston,Sharon Solar,-82.42151,34.1469,5/4/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+367,11325,RAPANOS,SAW-2016-00126,Wilmington,Schultz Dredge,-80.9226,35.5706,3/21/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+368,12146,RAPANOS,SAW-2019-02198,Wilmington,Stewart Stainless Steel / Wendover Industrial Center / 5238 Maxfield Road / Greensboro / Guilford County / commercial,-79.72053000000001,36.08432,6/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+369,11464,RAPANOS,SAW-2016-00826,Wilmington,Maycock Environmental / 7001 Creedmoor Road / Wake County / Raleigh NC,-78.67985,35.88214,5/16/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,11485,RAPANOS,SAW-2016-01016,Wilmington,Riggs Road / Marvin Haga,-77.24516,34.741009999999996,7/13/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,11420,RAPANOS,SAW-2016-00532,Wilmington,"Tri-South Builders, Inc / Alma Street Subdivision Ph. 2 / Moore County, NC",-79.2716,35.25895,10/19/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+372,11373,RAPANOS,SAW-2016-00308,Wilmington,Jim Kelly dredge,-80.92582,35.46155,3/25/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+373,8179,RAPANOS,SAC-2008-01748,Charleston,Hawk Road 34.77 acre parcel,-82.29106,34.76427,12/8/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+374,11694,RAPANOS,SAW-2017-00706,Wilmington,530 East Gannon Ave/Commercial site/Zebulon/Wake County,-78.3049,35.8266,9/8/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+375,11894,RAPANOS,SAW-2018-00516,Wilmington,Richard Wood,-79.31759,35.00222,3/19/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,11401,RAPANOS,SAW-2016-00420,Wilmington,"Skybrook Apartments II, LLC, Skybrook Apartments",-80.75956,35.4042,4/25/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+377,9387,RAPANOS,SAC-2018-00576,Charleston,Ocean Lakes Pond Dock,-78.96,33.6235,5/18/2018,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+378,8513,RAPANOS,SAC-2016-00189,Charleston,Bear Creek Roadway Crossing,-81.1724,33.8556,7/15/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+379,14518,RAPANOS,SAW-2005-20995,Wilmington,CRESCENT RESOURCES/HIDDEN LAKE/NW3,-78.44911,36.05508,3/4/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+380,11974,RAPANOS,SAW-2018-01375,Wilmington,"Freeman, Deborah/Freeman Property Subdivision",-78.50795,36.05171,7/13/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+381,8255,RAPANOS,SAC-2013-00372,Charleston,SC Highway 9 Industrial Complex - 1759 Lancaster HWY. (SC 9),-81.1199,34.7396,5/5/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+382,11220,RAPANOS,SAW-2015-02416,Wilmington,Bill Boice Dock Steps,-82.9521,35.1438,1/13/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+383,12081,RAPANOS,SAW-2019-01149,Wilmington,Ed Johnson_Baileys Crossroads_Harnett,-78.61591999999999,35.43869,8/13/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,11903,RAPANOS,SAW-2018-00612,Wilmington,The Point at Lake Castleberry/Wimberly Rd/Apex/Wake County ,-78.92588,35.771440000000005,3/30/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+385,11234,RAPANOS,SAW-2015-02452,Wilmington,Thomas Balousek (Dredge),-80.9357,35.4751,2/16/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+386,11927,RAPANOS,SAW-2018-00854,Wilmington,"White, Eugene/Currituck/JD",-76.24694000000001,36.50966,5/3/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,11916,RAPANOS,SAW-2018-00767,Wilmington,Ramp Solar Farm - Wayne County,-77.91931,35.41626,3/11/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+388,8374,RAPANOS,SAC-2015-01075,Charleston,Griffin Mill Road/Triple Creek,-82.35444,34.71617,3/2/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+389,11840,RAPANOS,SAW-2017-02520,Wilmington,NCDOT_U 5728_Thompson Street_Gum Branch_Division 3,-77.4072,34.76655,12/11/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,11168,RAPANOS,SAW-2015-02202,Wilmington,Lawler Boat House Repairs,-82.9415,35.1376,11/16/2015,0,1,0,0,1,0,0,0,1,0,0,1,0,0
+391,8412,RAPANOS,SAC-2015-01250-4S,Charleston,Freedom Solar Site,-79.15031,34.28844,11/18/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+392,11427,RAPANOS,SAW-2016-00566,Wilmington,"Hall, Jeff / Residential Pond Pre App / JD",-79.18295,34.978609999999996,3/24/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,10809,RAPANOS,SAW-2004-00943,Wilmington,"RICHARD DONALDSON/PORTERS NECK COMPANY, ",-77.76912,34.29003,7/19/2016,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+394,14498,RAPANOS,SAC-2018-01892,Charleston,Old Bulah Plantation-Sandridge Rd,-80.42819,33.11993,8/6/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+395,11714,RAPANOS,SAW-2017-00883,Wilmington,"HALE SWAMP ROAD/MILLER, COX & GAUSE",-78.4264,33.9138,7/6/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,12191,RAPANOS,SAW-2020-00638,Wilmington,Hendersonville Quarry / Vulcan Materials Company,-82.4509,35.3553,4/29/2020,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+397,12033,RAPANOS,SAW-2019-00434,Wilmington,O'Kelly Chapel Rd site/Cary/Wake County ,-78.90129,35.843779999999995,5/1/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+398,12014,RAPANOS,SAW-2018-02179,Wilmington,Century Communities / Weddington Pointe,-80.64631,35.003679999999996,2/21/2019,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+399,11874,RAPANOS,SAW-2018-00326,Wilmington,Litchford Road Property / 6205 Litchford Road / Wake County / Raleigh NC 27615,-78.59963,35.863859999999995,7/10/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,8800,RAPANOS,SAC-2016-01720,Charleston,Blythewood Farms,-80.96838000000001,34.208090000000006,5/1/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+401,14501,RAPANOS,SAC-2019-00511,Charleston,Hanahan City Sidewalks - Carolyn and McNew Streets ,-80.00729,32.90074,8/15/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,12060,RAPANOS,SAW-2019-00882,Wilmington,Everwood 2 Subdivision / 10149 NC Hwy 210 Four Oaks / Johnston County / Four Oaks NC,-78.52656999999999,35.50602,4/8/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,12071,RAPANOS,SAW-2019-01033,Wilmington,1000 Porters Neck Road_John Elmore_Forest Creek Ventures,-77.77085,34.2881,2/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+404,11247,RAPANOS,SAW-2015-02498,Wilmington,ONWASA Holly Ridge Site,-77.55516,34.49017,12/3/2015,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+405,11441,RAPANOS,SAW-2016-00666,Wilmington,Poplar Cove Creek Stream Restoration,-83.49947,35.13371,4/20/2016,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+406,9115,RAPANOS,SAC-2017-01463,Charleston,Adrian Lakes Tract JD,-79.00406,33.94575,5/17/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+407,8105,RAPANOS,SAC-2001-29234,Charleston,Wilson Farm,-78.78523,33.84308,6/26/2018,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+408,11760,RAPANOS,SAW-2017-01601,Wilmington,Flat Rock Church Road and Cooke Road,-78.36763,36.02349,1/25/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+409,11698,RAPANOS,SAW-2017-00730,Wilmington,"1160 Broadcreek Road, New Bern",-76.96692,35.113640000000004,6/8/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,11924,RAPANOS,SAW-2018-00833,Wilmington,704 and 706 South Carolina Ave_Wilm Beach Investment Corp,-77.9045,34.0186,7/19/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,14542,RAPANOS,SAW-2017-01017,Wilmington,Boston Solar / 8117 Boston Road / Roxboro / Person County / commercial,-78.92188,36.486,8/6/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+412,11673,RAPANOS,SAW-2017-00374,Wilmington,Henley Distribution Corp / Sandy Ridge Road Site / Colfax / Guilford County / commercial,-79.99294,36.10098,1/4/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+413,11147,RAPANOS,SAW-2015-02071,Wilmington,Wertz Drive,-79.60978,35.25418,10/16/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+414,11394,RAPANOS,SAW-2016-00399,Wilmington,289 Research Farm Rd,-79.7075,35.17723,4/21/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,9513,RAPANOS,SAC-2018-01129,Charleston,Gunsight Solar,-81.06869,33.76205,12/7/2018,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+416,8478,RAPANOS,SAC-2015-01798,Charleston,Denmark-Olar PK-12 School,-81.1228,33.3282,11/17/2016,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+417,11507,RAPANOS,SAW-2016-01187,Wilmington,125 WB&S Road/JD,-78.00923,34.23225,7/19/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+418,12101,RAPANOS,SAW-2019-01466,Wilmington,Midland Terrace / 1716 Camden Avenue /  Durham County / Durham NC 27704,-78.86959,36.01712,3/31/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+419,12143,RAPANOS,SAW-2019-02089,Wilmington,Robie Brandon Faircloth_4500 Dunn Road_Sampson,-78.54079,35.02277,11/12/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,9227,RAPANOS,SAC-2017-01931,Charleston,WSW Solar,-80.86144,33.66695,6/15/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+421,11460,RAPANOS,SAW-2016-00815,Wilmington,NCDOT/Bridge Replacement Bridge No. 90/SR 1719/ over Norris Creek/TIP B-4750,-78.27373,35.925940000000004,11/20/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+422,11914,RAPANOS,SAW-2018-00762,Wilmington,Carpenter Pointe Townhomes/Carpenter Fire Station Road/Cary/Wake County,-78.88031,35.82268,7/18/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+423,12037,RAPANOS,SAW-2019-00514,Wilmington,169 Cliffside Dr,-77.86338,34.16032,3/28/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,11616,RAPANOS,SAW-2016-02306,Wilmington,Dorethea Dix Site / 1987 Umstead Drive / Wake County / Raleigh NC,-78.66173,35.77433,8/31/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,14490,RAPANOS,SAC-2017-00567,Charleston,Vincent Solar JD,-80.10708000000001,34.09276,8/3/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,14488,RAPANOS,SAC-2017-00329,Charleston,Fairfield Solar,-80.18053,34.40509,4/10/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+427,11343,RAPANOS,SAW-2016-00169,Wilmington,Taryn Meadows subdivision/Zebulon Rd./Zebulon/Wake County ,-78.3275,35.84867,5/11/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+428,11232,RAPANOS,SAW-2015-02449,Wilmington,Keith Edwards Dredge,-80.9078,35.4466,2/22/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+429,9410,RAPANOS,SAC-2018-00684,Charleston,Sago Plantation 2B,-78.96853,33.744679999999995,5/30/2019,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+430,10996,RAPANOS,SAW-2014-01991,Wilmington,6519 Brookshire Blvd (Rayford Love Trust),-80.76235,35.28434,12/9/2015,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+431,12097,RAPANOS,SAW-2019-01405,Wilmington,Forestar Real Estate Group Incorporated / Heritage at Moss Creek,-80.73949,35.439809999999994,10/1/2019,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+432,11613,RAPANOS,SAW-2016-02302,Wilmington,113 / 115 N Rogers Lane / Wake County / Raleigh NC,-78.54863,35.77667,2/22/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,11966,RAPANOS,SAW-2018-01317,Wilmington,Polkton Substation Site,-80.19922,35.11274,2/7/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,11844,RAPANOS,SAW-2017-02577,Wilmington,Steele  Creek Storage,-80.98444,35.12706,3/20/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+435,12113,RAPANOS,SAW-2019-01655,Wilmington,Island Drive_Onslow County_Telecommunication Tower Site,-77.4857,34.461040000000004,10/18/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,12088,RAPANOS,SAW-2019-01286,Wilmington,Wake Stone Corp RDU 105 Acre Property/Wake Stone Corporation/Raleigh-Durham Airport Authority/Cary NC/Wake County,-78.77481999999999,35.841640000000005,1/15/2020,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+437,14491,RAPANOS,SAC-2017-01409,Charleston,New Island Green South JD,-79.05634,33.64437,5/1/2019,0,1,0,0,0,1,0,0,1,0,0,1,0,1
+438,11765,RAPANOS,SAW-2017-01649,Wilmington,"Mist Lake FAcility Expansion - City of Durham, Department of Water Management - Durham County",-78.85975,36.02175,10/16/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+439,9286,RAPANOS,SAC-2018-00188,Charleston,Georgetown County School District / Andrews High School,-79.5701,33.45925,6/28/2018,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+440,9004,RAPANOS,SAC-2017-00931,Charleston,Highway 905 Longview Tract,-78.74600000000001,33.924,9/18/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+441,9263,RAPANOS,SAC-2018-00094,Charleston,Moses Johnson / The Village ,-78.73833,33.93486,5/16/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+442,11612,RAPANOS,SAW-2016-02298,Wilmington,Flemming Loop Rd. Properties/Fuquay Varina/Wake County ,-78.82179000000001,35.571490000000004,6/12/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+443,12091,RAPANOS,SAW-2019-01300,Wilmington,Duke Energy Renewables / Broad River Solar,-81.75624,35.18098,4/29/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+444,12103,RAPANOS,SAW-2019-01472,Wilmington,Galvins Ridge/Criteria Development Co/Sanford NC/Lee County,-79.15392,35.56392,3/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+445,11588,RAPANOS,SAW-2016-02009,Wilmington,1950 Green Hill Road_Town Creek Road_Gert Holdings LLC,-78.1548,34.1724,11/3/2016,0,1,0,0,0,0,1,0,1,1,0,0,1,1
+446,11809,RAPANOS,SAW-2017-02194,Wilmington,CAMP STEWART,-80.66062,35.238609999999994,11/28/2018,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+447,11075,RAPANOS,SAW-2015-01448,Wilmington,137-Acre Landover Road Site JD,-81.03466999999999,35.056509999999996,7/20/2016,0,1,0,0,0,0,1,1,1,0,0,1,0,0
+448,11783,RAPANOS,SAW-2017-01804,Wilmington,UNCW-PARKING LOTS/PHASE 2/ 2A & 2B/YATES,-77.88048,34.22148,12/6/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+449,11597,RAPANOS,SAW-2016-02090,Wilmington,MPV Properties/Rivergate Tract Multi-family Residential Development,-80.98561,35.09787,5/3/2017,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+450,11877,RAPANOS,SAW-2018-00341,Wilmington,Brian Maynor-Wells Farm,-79.29879,34.83193,2/22/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+451,12040,RAPANOS,SAW-2019-00543,Wilmington,Panther Landing/Currituck/AJD,-76.1551,36.53055,4/5/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,11756,RAPANOS,SAW-2017-01521,Wilmington,"Tripp, James / 102 Moses Tripp Lane_Friendly Road / Preapp",-78.62252,35.33015,1/8/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+453,11713,RAPANOS,SAW-2017-00875,Wilmington,"Devore, Charles Jeffery / 3114 School Road / Pond",-78.86565999999999,34.88707,9/6/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+454,11846,RAPANOS,SAW-2017-02580,Wilmington,Edwin Snead- Sneadtown Road,-79.48889,34.86468,12/29/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,12186,RAPANOS,SAW-2020-00553,Wilmington,JAG- Lake Park,-81.37099,35.74927,4/16/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+456,11702,RAPANOS,SAW-2017-00747,Wilmington,Billy Nguyen - Airbase and Riverton Rd,-79.36628,34.82867,5/24/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,11811,RAPANOS,SAW-2017-02274,Wilmington,William and Karol Cheek JD,-80.68503,35.22045,2/14/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,11759,RAPANOS,SAW-2017-01547,Wilmington,"Mason, Lester and Farnchion / Linda Blackburn / Saltwater Landing Rd",-77.58044,34.44845,12/4/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,11665,RAPANOS,SAW-2017-00318,Wilmington,18-04-16_NCDOT_U-5746_Widening US 401_Fayetteville Rd_ Wake_Div5,-78.70246999999999,35.66066,4/16/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+460,11335,RAPANOS,SAW-2016-00153,Wilmington,Rick Storch dredge,-80.93822,35.59255,2/17/2016,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+461,11672,RAPANOS,SAW-2017-00363,Wilmington,Flemming Loop Park/Flemming Loop Rd./Fuquay Varina/Wake County,-78.81539000000001,35.5793,2/27/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,12012,RAPANOS,SAW-2018-02154,Wilmington,Tom Murphy Kuck Road,-80.67944,35.1905,1/29/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+463,12134,RAPANOS,SAW-2019-01946,Wilmington,Charlotte Real Estate Development / Cannon Run,-80.7302,35.4345,5/19/2020,0,1,0,0,0,0,1,1,1,1,0,0,1,1
+464,14502,NWPR,SAC-2019-00585,Charleston,Kershaw County Senior Living Facility,-80.61383000000001,34.27425,10/16/2020,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+465,12093,RAPANOS,SAW-2019-01353,Wilmington,Henry Sullivan_NC Hwy 50_Pender,-77.56322,34.45543,7/26/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+466,11377,RAPANOS,SAW-2016-00330,Wilmington,Johnson Concrete Company,-80.6081,35.432390000000005,1/31/2018,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+467,11137,RAPANOS,SAW-2015-02023,Wilmington,Mike Able Rocky Ford Branch Road Culvert,-82.89386,35.44655,10/28/2015,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+468,11941,RAPANOS,SAW-2018-01001,Wilmington,Barefoot Mitigation Project_Warren Mill Road,-78.3957,35.2535,12/28/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+469,11197,RAPANOS,SAW-2015-02309,Wilmington,Chapman Boat Access,-80.9775,35.4987,11/18/2015,0,1,0,0,1,0,1,0,0,0,0,1,0,0
+470,11092,RAPANOS,SAW-2015-01650,Wilmington,Stallings Road Subdivision JD,-80.66871,35.10172,10/19/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+471,11943,RAPANOS,SAW-2018-01029,Wilmington,Authur Pierce Road Site / Wake County / Apex NC,-78.78833,35.6916,8/3/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,9883,RAPANOS,SAC-2019-01064,Charleston,SC 34 Mega Site in Farifield County,-80.99286,34.336040000000004,8/30/2019,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+473,11529,RAPANOS,SAW-2016-01411,Wilmington,3301 East US HWY 70,-77.0153,35.0494,8/15/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,11305,RAPANOS,SAW-2016-00029,Wilmington,Gladden Boat House Repairs & Seawall,-82.9322,35.1288,1/25/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+475,11468,RAPANOS,SAW-2016-00853,Wilmington,College Park Elementary School/JD,-77.86336,34.236290000000004,4/27/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,11222,RAPANOS,SAW-2015-02419,Wilmington,Kathy Anderson Boat Access Channel,-80.9927,35.5947,12/22/2015,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+477,8868,RAPANOS,SAC-2017-00164,Charleston,"Shope, Alvin / Swift River Retrievers Pond",-79.56905,34.65811,4/27/2017,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+478,14486,RAPANOS,SAC-2017-00112,Charleston,"Anderson, Patricia / Melsam Solar Farm",-79.37203000000001,34.34253,4/10/2017,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+479,11735,RAPANOS,SAW-2017-01177,Wilmington,"Storage Logix, LLC / Approved JD / No Permit Required",-76.73464,35.119690000000006,6/5/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+480,11525,RAPANOS,SAW-2016-01388,Wilmington,"Howard, Cathy / Jackson, Michael / Chicken Farm / NPR",-78.56789,35.049620000000004,9/22/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,12024,RAPANOS,SAW-2019-00259,Wilmington,Bright Farm,-82.59188,35.29769,3/7/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+482,11366,RAPANOS,SAW-2016-00297,Wilmington,Big Choga Shoreline Stabilization,-83.6949,35.1806,3/24/2016,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+483,14522,RAPANOS,SAW-2007-02953-065,Wilmington,Heglar Commons or 5819 Carolina Beach Road/J. W. Heglar ,-77.89415,34.12408,3/13/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,12163,RAPANOS,SAW-2020-00070,Wilmington,709 Bowsertown Road - Manteo/Dare,-75.67582,35.900220000000004,2/18/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,11747,RAPANOS,SAW-2017-01351,Wilmington,Kendall Farm Solar Farm/Fetner James and Maggie/Randolph County/Liberty NC,-79.55503,35.85033,5/29/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+486,11448,RAPANOS,SAW-2016-00709,Wilmington,Energy Renewal Partners LLC / Adams Solar Project / Rockingham County / Reidsville NC,-79.78572,36.2728,4/22/2016,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+487,11382,RAPANOS,SAW-2016-00349,Wilmington,"John Seitz, Lot 27, Allenton Ferry, Uwharrie Point - Bank Stabilization",-80.09607,35.478390000000005,2/22/2016,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+488,12200,RAPANOS,SAW-2020-00955,Wilmington,Reams Rd,-80.93256,35.28393,6/3/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,9583,RAPANOS,SAC-2018-01431,Charleston,Stony Landing Site,-79.97785,33.19056,1/15/2020,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+490,8203,RAPANOS,SAC-2010-00600-4JE,Charleston,Dillon County I-95 Industrial Park,-79.40924,34.400929999999995,5/11/2016,0,1,0,0,0,0,1,0,1,1,0,1,0,1
+491,11677,RAPANOS,SAW-2017-00410,Wilmington,"Austin, Jason/Poultry Houses Determination Request",-79.71685,35.86286,3/2/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+492,12052,RAPANOS,SAW-2019-00736,Wilmington,Charter Properties Incorporated / Highland Creek,-80.7726,35.3673,2/4/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+493,11869,RAPANOS,SAW-2018-00223,Wilmington,Jeremy Miles,-79.2088,34.59407,2/1/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,11602,RAPANOS,SAW-2016-02144,Wilmington,Joyner Atlantic Beach,-76.75304,34.699729999999995,11/9/2016,0,1,0,0,0,1,0,0,0,0,0,0,1,1
+495,8801,RAPANOS,SAC-2016-01726,Charleston,Fox Hollow Amenity Tract,-78.65893,33.8393,11/23/2016,0,1,0,0,0,1,0,0,0,0,0,1,0,1
+496,11327,RAPANOS,SAW-2016-00128,Wilmington,Asbury Chapel Thoroughfare Extension / Walden Subdivision,-80.81582,35.42447,2/5/2016,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+497,12070,RAPANOS,SAW-2019-01030,Wilmington,Indulor Project / 932 East Elm Street / Alamance County / Graham NC,-79.37994,36.08198,1/6/2020,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+498,14473,RAPANOS,SAC-2015-01556-4E,Charleston,"Price, Jack et al / Pee Dee I Solar Site",-79.36143,34.39948,9/4/2018,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,11336,RAPANOS,SAW-2016-00154,Wilmington,Leigh Ann Combs dredge,-80.93351,35.54027,2/16/2016,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+500,9114,RAPANOS,SAC-2017-01457,Charleston,Rockbridge Subdivision,-80.95868,34.04718,10/19/2017,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+501,12010,RAPANOS,SAW-2018-02085,Wilmington,101 Holly Creek Rd/Morrisville/Wake County ,-78.84995,35.824009999999994,1/16/2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1
