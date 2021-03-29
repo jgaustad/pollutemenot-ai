@@ -1,0 +1,5 @@
+ssurgo = list(set(range(17, 34)) - set([29])) # 30 = mukey
+nhd = list(range(42, 87)) + list(range(244, 287)) 
+nwi = list(range(87, 227)) + list(range(287, 426)) 
+srtm = list(range(34, 42)) + list(range(227, 244)) 
+
